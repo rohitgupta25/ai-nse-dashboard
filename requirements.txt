@@ -1,0 +1,7 @@
+pandas
+numpy
+ta
+nsepython
+openpyxl
+flask
+gunicorn
